@@ -12,6 +12,9 @@
 
 启动时会请求管理员权限，以便尝试处理不同用户会话中的进程；无需安装额外依赖。
 
+![测试.png](https://github.com/brucezhcw/copilot/blob/master/MemoryCare/copilot.png) 
+
+
 ## 安全范围
 
 - 不会结束、关闭或重启任何程序。
